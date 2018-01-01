@@ -1,3 +1,4 @@
+#line count
 input = gets.chomp!
 open(input){|f|
 	while 
