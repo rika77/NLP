@@ -1,8 +1,7 @@
 #Might -> Mgナンとかじゃないと...?
 str = "Hi He Lied Because Boron Could Not Oxidize Fluorine. New Nations Might Also Sign Peace Security Clause. Arthur King Can."
 
-str = str.gsub(".","")
-key_array = str.split
+key_array = str.gsub(".","").split
 hash ={}
 
 (0..key_array.length-1).each {|i| 
