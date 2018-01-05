@@ -11,4 +11,12 @@
 `$ cut -f 2 hightemp.txt` 
 
 13
-`$ paste co1.txt col2.txt` 
+`$ paste co1.txt col2.txt`
+
+14
+`$ head -n N hightemp.txt` 
+
+15
+`$ tail -n M hightemp.txt`  
+
+
