@@ -19,4 +19,5 @@
 15
 `$ tail -n M hightemp.txt`  
 
-
+16
+`$ split -l N hightemp.txt out.`
